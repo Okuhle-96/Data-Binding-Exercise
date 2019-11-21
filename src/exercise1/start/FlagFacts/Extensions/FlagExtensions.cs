@@ -2,6 +2,7 @@
 using System.Reflection;
 using Xamarin.Forms;
 
+
 namespace FlagFacts.Extensions
 {
     public static class FlagExtensions
